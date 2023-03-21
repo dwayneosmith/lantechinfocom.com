@@ -17,12 +17,14 @@
   </div>
 
   <div class="w3-row-padding w3-grayscale">
+    <a href="/binary-translator">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <h3>Binary Translator</h3>
       <p class="w3-opacity">Education</p>
       <p>An online translator to convert binary code into other major numbering systems.</p>
       <p><button class="w3-button w3-light-grey w3-block">Check tool</button></p>
     </div>
+  </a>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <h3>MD5 hash Generator</h3>
       <p class="w3-opacity">Security</p>
