@@ -1,4 +1,7 @@
 export default {
+  server: {
+    port: 38735 // default: 3000
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'lantechinfocom',
